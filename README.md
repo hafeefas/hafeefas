@@ -2,6 +2,7 @@
 - 👀 I’m interested learning more about coding as well as programming. I am also really 
      interested in landing an internship that is about anything related to computer sciences!
 - 🌱 I’m currently learning C++, Java, and HTML.
+- I'm live in Brooklyn, New York!
 - 📫 I can be reached at my email @hafeefas47@gmail.com!
 
 <!---
