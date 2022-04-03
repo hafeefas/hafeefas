@@ -1,0 +1,22 @@
+// Write a program that asks the user to enter the price of the book they want,
+// and then calculate the total cost including the tax and display it.
+// The sales tax rate is 6.75%
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    double cost_of_book;
+    cout << "What is the price of the book?: $";
+    cin >> cost_of_book;
+    
+    const double sales_tax=0.0675; // aka 6.75/100
+    
+    double total_cost = (cost_of_book * sales_tax) + cost_of_book;
+    
+    cout << "You're total is: $" << total_cost;
+    
+    return 0;
+}
