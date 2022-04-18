@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Hafeefa, a current college student majoring in Computer Information Systems!
 - 👀 I’m interested learning more about coding as well as programming. I am also really 
-     interested in landing an internship that is about anything related to computer sciences!
-- 🌱 I’m currently learning C++, Java, and HTML.
-- I live in Brooklyn, New York!
-- 📫 I can be reached at my email @hafeefas47@gmail.com!
+     interested in landing an internship that is about anything related to computer sciences and tech!
+- 🎮 Knowledgable in C++, Java, and HTML
+- 🌱 I live in Brooklyn, New York!
+- 📫 I can be reached at my email @hafeefas47@gmail.com
 
 <!---
 hafeefas/hafeefas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
