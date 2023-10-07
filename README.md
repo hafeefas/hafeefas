@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hafeefa, a sophomre in Brooklyn College majoring in Computer Science!
+- 👋 Hi, I’m Hafeefa, a Junionr in Brooklyn College majoring in Computer Science!
 - 🎮 Knowledgable in Java, HTML, CSS, JavaScript, Bootstrap, and React JS
 - 🌱 Located in Brooklyn, New York
 - 📫 I can be reached at my email @hafeefas47@gmail.com or my linkedin https://www.linkedin.com/in/hafeefa-sultan-1a3785227/
