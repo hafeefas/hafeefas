@@ -1,5 +1,4 @@
-# 💫 About Me:
-Hi 👋, I'm Hafeefa a senior Computer Science student at Brooklyn College, passionate about web development and backend technologies. I'm located in New York City, and I'm excited to share my skills and experiences with you.<br>
+# 💫 Hi 👋, I'm Hafeefa a senior Computer Science student at Brooklyn College, passionate about front end and fullstack development. I'm located in New York City, and I'm excited to share my skills and experiences with you.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hafeefa-sultan-1a3785227) 
