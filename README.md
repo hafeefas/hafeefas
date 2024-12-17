@@ -21,10 +21,9 @@ In addition to my academic journey, I have completed several internships, includ
 <div align="center" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 8px;"></div>
 
 Right now, I am applying to various software engineering internships and grad roles, where I can deepen my programming knowledge and make a positive impact on people's lives and businesses.
+In my current role as a student software engineer manager, I am in charge of leading a team of 6 developers with MERN stack. This includes but is not limited to assigning developers tickets, actively engaging with the client to know their needs, and working closely with product managers to ensure project requirements are met and timelines are adhered to. I will also be overseeing code reviews to make deliver high scale software engineering practices.
 
-Additionally, I am working on a TypeScript + React Pokémon Pokédex website with a teammate. Our goal is to integrate APIs from the official Pokémon site and build a user-friendly interface where visitors can search for different Pokémon, view detailed stats, and explore their abilities.
-
-Through this project, I aim to improve my proficiency in TypeScript, expand my tech stack, and enhance my leadership skills.
+Additionally, I recently working on a TypeScript + React Pokémon Pokédex website with a teammate. Our goal was to integrate APIs from the official Pokémon site and build a user-friendly interface where visitors can search for different Pokémon, view detailed stats, and explore their abilities. The project ended in a success, and I was able to improve my proficiency in TypeScript, Figma, expand my tech stack, and enhance my leadership skills.
 
 <div align="center" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 8px;"></div>
 
