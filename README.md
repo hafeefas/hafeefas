@@ -1,7 +1,7 @@
 # Hi 🌸 I'm Hafeefa <br>
 <div align="center" style="border: 2px solid #e1e4e8; padding: 10px; border-radius: 8px;"></div>
 
-I'm a senior Computer Science student at Brooklyn College, passionate about frontend and fullstack development. I'm located in New York City, and I'm excited to share my skills and experiences with you. <be> 
+I'm a senior Computer Science student at Brooklyn College, passionate about frontend, backend, and fullstack development. I'm located in New York City, and I'm excited to share my skills and experiences with you. <be> 
 
 # Get to know me more!
 In addition to my academic journey, I have completed several internships, including roles in frontend engineering where I worked with React.js, TypeScript, and CSS frameworks like Tailwind. I’ve also developed fullstack applications using Node.js, Express, and PostgreSQL, allowing me to understand the entire development cycle from frontend to backend.
